@@ -11,7 +11,7 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 APP_NAME = "ZENITH"
-APP_VERSION = "1.2.0"
+APP_VERSION = "1.0.0"
 USER_AGENT = f"Mozilla/5.0 (Windows NT 10.0; Win64; x64) ZENITH-AnomalyWatch/{APP_VERSION}"
 
 
